@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Villa Luxuria – Orgies Romaines de l’Été</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background-color: #2c001e;
+      color: #fff0f5;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      padding: 15px 25px;
+      background-color: #6a004b;
+      justify-content: space-between;
+    }
+    header img {
+      height: 50px;
+    }
+    nav a {
+      margin-left: 20px;
+      color: #ffe6ea;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(to bottom, #ff007f, #ff3366);
+    }
+    .hero h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+      color: #fff;
+    }
+    .hero p {
+      font-size: 20px;
+      max-width: 700px;
+      margin: 0 auto 25px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 14px 30px;
+      background-color: #fff0f5;
+      color: #6a004b;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 25px 0;
+    }
+    section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section img {
+      width: 100%;
+      max-width: 600px;
+      border-radius: 12px;
+      margin: 25px 0;
+    }
+    section p {
+      font-size: 18px;
+      max-width: 750px;
+      margin: 0 auto 20px;
+    }
+    footer {
+      background-color: #6a004b;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #ffe6ea;
+    }
+    footer a {
+      color: #ffe6ea;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo_villa.png" alt="Logo Villa Luxuria" />
+    <nav>
+      <a href="#soiree">Soirées</a>
+    </nav>
+  </header>
+
+  <div class="hero">
+    <h1>Villa Luxuria – Les Orgies Romaines de l’Été</h1>
+    <p>Laissez tomber le monde moderne, et replongez dans les fastes sensuels de l’Empire romain. Chaque vendredi et samedi soir, dès le premier week-end de juin, vivez l’extase d’une nuit dionysiaque…</p>
+    <a class="btn" href="reservation.html">Réservez – 49,99€ / personne</a>
+  </div>
+
+  <section id="soiree">
+    <h2>Un Festin des Sens</h2>
+    <img src="orgie_romaine_1.jpg" alt="Ambiance romaine" />
+    <p>Dans un décor inspiré des villas de Pompéi, les corps s’enlacent, les regards s’embrasent et les plaisirs se déclinent sans tabou. Drapés de toges légères, nos convives laissent libre cours à leurs désirs les plus antiques.</p>
+
+    <img src="orgie_romaine_2.jpg" alt="Fête romaine sensuelle" />
+    <p>Vin coule à flots, fruits juteux à partager, musiciens et danseurs accompagnent vos fantasmes les plus fous. Que vous veniez en couple ou en solo, les jeux érotiques de la Villa Luxuria sont ouverts à tous les esprits libres.</p>
+
+    <img src="orgie_romaine_3.jpg" alt="Participants en toges" />
+    <p>Restauration aphrodisiaque et bar à élixirs sur place. Chaque soirée est une nouvelle bacchanale, un voyage dans le temps où le plaisir est loi, et la retenue une hérésie.</p>
+
+    <a class="btn" href="reservation.html">Réservez – 49,99€ / personne</a>
+  </section>
+
+  <footer>
+    <a href="contact.html">Contact</a> | 
+    <a href="mentions-legales.html">Mentions légales</a> | 
+    <a href="cgv.html">CGV</a>
+  </footer>
+</body>
+</html>
